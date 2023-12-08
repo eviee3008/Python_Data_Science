@@ -1,4 +1,4 @@
-# PythonDataScience
+# Python_Data_Science
 
 This repository contains code as part of assignments from an online Python Data Science specialisation.
 These are from course 1. This code demonstrates the use of Python for data analysis, applying packages such as Pandas and matplotlib. This code demonstrates my familiarity with extracting data from sources such as excel spreadsheets, csv files and html files, then cleaning and processing the data using pandas. It also demonstrates use of statistical methods to test hypotheses in relation to the data, and also production of data visualisations such as scatter plots.
